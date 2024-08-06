@@ -1,0 +1,14 @@
+.cabecalho {
+    background-color: red;
+    color: aliceblue;
+    display: flex;
+    padding: 24px 0;
+}
+
+.section1 {
+    background-color: red;
+}
+
+.section2 {
+    background-color: aliceblue;
+}
