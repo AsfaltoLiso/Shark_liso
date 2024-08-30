@@ -1,17 +1,23 @@
+.corpodosite{
+    color: white;
+}
+
+
+
 .cabecalho {
-    background-color: black;
+    background-image: linear-gradient(black,gray);
     color: aliceblue;
     display: flex;
     padding: 24px 0;
 }
 
 .section1 {
-    background-color: red;
+    background-image: linear-gradient(gray,rgb(48, 48, 48));
     padding: 100px;
 }
 
 .section2 {
-    background-color: blue;
+    background-image: linear-gradient(rgb(48, 48, 48),black);
     padding: 100px;
 }
 
