@@ -14,11 +14,13 @@
 .section1 {
     background-image: linear-gradient(gray,rgb(48, 48, 48));
     padding: 100px;
+    font-size: xx-large;
 }
 
 .section2 {
     background-image: linear-gradient(rgb(48, 48, 48),black);
     padding: 100px;
+    font-size: xx-large;
 }
 
 .cabecalho-imagem{
